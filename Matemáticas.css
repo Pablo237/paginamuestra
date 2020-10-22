@@ -1,0 +1,196 @@
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/D0_rnFVXQAA5GV2.jpg);
+   background-attachment: fixed;
+   background-position: left top;
+   background-repeat: repeat;
+   background-size: 100% 100%;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: transparent;
+   background-image: none;
+   box-sizing: border-box;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape2
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#NavigationBar1 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#NavigationBar1 ul.navbar li
+{
+   height: 30px;
+   width: 267px;
+   float: left;
+   margin: 0 4px 0 0;
+}
+#NavigationBar1 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+#NavigationBar1 ul.navbar li a img
+{
+   position: absolute;
+   left: 0;
+   z-index: 1;
+   border-width: 0;
+}
+#NavigationBar1 ul.navbar li span
+{
+   display: block;
+   height: 30px;
+   width: 267px;
+   position: absolute;
+   z-index: 2;
+}
+#NavigationBar1 a .hover
+{
+   visibility: hidden;
+}
+#NavigationBar1 a:hover .hover
+{
+   visibility: visible;
+}
+#NavigationBar1 a:hover span
+{
+   visibility: hidden;
+}
+#wb_TextArt1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#TextArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Accordion1
+{
+   width: 100%;
+   height: 100%;
+}
+#wb_Accordion1 .ui-helper-reset
+{
+   line-height: normal !important;
+   font-size: 1em !important;
+}
+#Accordion1 .ui-accordion-header
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px !important;
+   font-style: normal;
+   padding: 10px 10px 10px 10px;
+   text-align: left;
+}
+#Accordion1 h3
+{
+   display: block;
+   margin: 0;
+}
+#Accordion1 .ui-accordion-header .ui-icon
+{
+   padding-right: 4px;
+}
+#Accordion1 .ui-accordion-content
+{
+   padding: 0;
+   position: relative;
+}
+#Accordion1, #Accordion1 > .ui-corner-all, #Accordion1 > .ui-corner-top
+{
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+#Accordion1 .ui-corner-all, #Accordion1 .ui-corner-bottom
+{
+   border-bottom-right-radius: 6px;
+   border-bottom-left-radius: 6px;
+}
+#wb_Accordion1
+{
+   margin: 0;
+}
+#YouTube1
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   border-width: 0;
+}
+#YouTube2
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   border-width: 0;
+}
+#YouTube3
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   border-width: 0;
+}
+#YouTube4
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   border-width: 0;
+}
+#PageFooter1
+{
+   background-color: transparent;
+   background-image: none;
+   box-sizing: border-box;
+}
